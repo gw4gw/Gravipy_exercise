@@ -1,10 +1,8 @@
 GraviPy
 =======
-
+from https://github.com/wojciechczaja/GraviPy
 Tensor Calculus Package for General Relativity
 based on SymPy (python library for symbolic mathematics).
-
-
 
 Installation
 ------------
@@ -25,6 +23,10 @@ To install GraviPy, simply run
 
 Documentation and usage
 -----------------------
+The original tutorial from the GraviPy author
+GraviPy-tutorial.ipynb
 
-docs/GraviPy-tutorial.ipynb
+
+The modified tutorial with new conventions and Chinese descriptions.
+GraviPy-tutorial-cn.ipynb
 
