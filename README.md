@@ -30,3 +30,11 @@ GraviPy-tutorial.ipynb
 The modified tutorial with new conventions and Chinese descriptions.
 GraviPy-tutorial-cn.ipynb
 
+从 mybinder 在线运行
+----------------------
+1. 打开网页 https://mybinder.org/
+2. 将 https://github.com/gw4gw/Gravipy_exercise/ 地址输入 **GitHub** 后的地址栏
+3. 点击 **launch** 
+
+
+
